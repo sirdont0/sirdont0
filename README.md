@@ -20,7 +20,6 @@
 - Сертификат курса «Тренировки по алгоритмам 7.0» от Яндекса
 - Сертификат администрирования ОС Astra Linux 1.7 (17.02)
 
-Для обсуждения профессиональных возможностей, сотрудничества или ознакомления с моими проектами свяжитесь со мной через Telegram: [t.me/tomchukd](https://t.me/tomchukd).
 
 ---
 
@@ -43,7 +42,6 @@ I am a Go developer from Russia, currently studying Information Security at the 
 - Certificate from Yandex “Algorithm Training 7.0” course
 - Certificate in Astra Linux 1.7 Administration (17.02)
 
-For discussions about professional opportunities, collaboration, or to explore my projects, please contact me via Telegram: [t.me/tomchukd](https://t.me/tomchukd).
 
 ---
 
@@ -55,4 +53,4 @@ For discussions about professional opportunities, collaboration, or to explore m
   </a>
 </p>
 
-> **Примечание / Note**: Некоторые мои проекты являются приватными, но я открыт к обсуждению идей и сотрудничеству! / Some of my projects are private, but I’m open to discussing ideas and collaboration!
+> **Примечание / Note**: Для обсуждения профессиональных возможностей, сотрудничества или ознакомления с моими проектами свяжитесь со мной через Telegram / For discussions about professional opportunities, collaboration, or to explore my projects, please contact me via Telegram
