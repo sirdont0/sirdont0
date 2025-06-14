@@ -1,7 +1,7 @@
 # 🚀 Добро пожаловать на мой GitHub! / Welcome to My GitHub!
 
 
-## 🇷🇺 Обо мне (Русский)
+## 🇷🇺 Обо мне
 
 Я Go-разработчик из России, студент Национального исследовательского университета «МИЭТ» по направлению «Информационная безопасность». Моя профессиональная цель — развитие в области бэкенд-разработки.
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 🇬🇧 About Me (English)
+## 🇬🇧 About Me
 
 I am a Go developer from Russia, currently studying Information Security at the National Research University “MIET.” My professional goal is to excel in backend development.
 
