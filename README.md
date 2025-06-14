@@ -3,10 +3,11 @@
 
 ## 🇷🇺 Обо мне (Русский)
 
-Я Go-разработчик из России, студент Национального исследовательского университета «МИЭТ» по направлению «Информационная безопасность». Моя профессиональная цель — развитие в области бэкенд-разработки. Я специализируюсь на создании программного обеспечения для взаимодействия с блокчейном Solana, включая all-in-one ботов, мониторы транзакций и менеджеры. Мои интересы включают программирование, блокчейн-технологии, криптографию, сетевые технологии и криптовалюты.
+Я Go-разработчик из России, студент Национального исследовательского университета «МИЭТ» по направлению «Информационная безопасность». Моя профессиональная цель — развитие в области бэкенд-разработки.
 
 ### 🔧 Ключевые навыки
-- Разработка на Go; базовые знания Python и C++ (в рамках учебной программы)
+- Разработка на Go
+- Базовые знания Python и C++ (в рамках учебной программы)
 - Администрирование операционных систем Linux, Astra Linux, macOS
 - Работа с СУБД PostgreSQL
 - Глубокое понимание сетевых протоколов и настройки сетей
@@ -19,16 +20,17 @@
 - Сертификат курса «Тренировки по алгоритмам 7.0» от Яндекса
 - Сертификат администрирования ОС Astra Linux 1.7 (17.02)
 
-Для обсуждения профессиональных возможностей, сотрудничества или ознакомления с моими проектами свяжитесь со мной через Telegram: [t.me/tomchukdim](https://t.me/tomchukdim). Я открыт к новым вызовам и готов внести вклад в инновационные проекты!
+Для обсуждения профессиональных возможностей, сотрудничества или ознакомления с моими проектами свяжитесь со мной через Telegram: [t.me/tomchukdim](https://t.me/tomchukdim).
 
 ---
 
 ## 🇬🇧 About Me (English)
 
-I am a Go developer from Russia, currently studying Information Security at the National Research University “MIET.” My professional goal is to excel in backend development. I specialize in building software for interacting with the Solana blockchain, including all-in-one bots, transaction monitors, and managers. My interests span programming, blockchain technologies, cryptography, network technologies, and cryptocurrencies.
+I am a Go developer from Russia, currently studying Information Security at the National Research University “MIET.” My professional goal is to excel in backend development.
 
 ### 🔧 Key Skills
-- Development in Go; foundational knowledge of Python and C++ (from university coursework)
+- Development in Go
+- Foundational knowledge of Python and C++ (from university coursework)
 - Administration of Linux, Astra Linux, and macOS operating systems
 - Working with PostgreSQL databases
 - Deep understanding of network protocols and network configuration
@@ -41,7 +43,7 @@ I am a Go developer from Russia, currently studying Information Security at the 
 - Certificate from Yandex “Algorithm Training 7.0” course
 - Certificate in Astra Linux 1.7 Administration (17.02)
 
-For discussions about professional opportunities, collaboration, or to explore my projects, please contact me via Telegram: [t.me/tomchukdim](https://t.me/tomchukdim). I am open to new challenges and eager to contribute to innovative projects!
+For discussions about professional opportunities, collaboration, or to explore my projects, please contact me via Telegram: [t.me/tomchukdim](https://t.me/tomchukdim).
 
 ---
 
